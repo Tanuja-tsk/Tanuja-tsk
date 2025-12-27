@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm currently pursuing Btech final year at Aditya college of engineering and technology<br>I'm very much intersted  in wed developer, can build a better interface for goof user experience<br>also data analysis working with data deriving insights.
+:
+
+👋 Hi, I’m a passionate learner and aspiring developer.
+🤖 Interested in AI, machine learning, and real-world problem solving.
+🌐 I enjoy building projects using Flask, React, and modern tools.
+📊 I like working with data, databases, and analytics.
+🛠️ Always experimenting, debugging, and improving my skills.
+🚀 Currently building projects to strengthen my portfolio.
+📫 Open to learning, collaboration, and new opportunities.
 
 
 # 💻 Tech Stack:
